@@ -1,6 +1,0 @@
-D:\Denchik\VS\Homework4\ArrayHelper\bin\Debug\ArrayHelper.dll
-D:\Denchik\VS\Homework4\ArrayHelper\bin\Debug\ArrayHelper.pdb
-D:\Denchik\VS\Homework4\ArrayHelper\obj\Debug\ArrayHelper.csproj.CoreCompileInputs.cache
-D:\Denchik\VS\Homework4\ArrayHelper\obj\Debug\ArrayHelper.dll
-D:\Denchik\VS\Homework4\ArrayHelper\obj\Debug\ArrayHelper.pdb
-D:\Denchik\VS\Homework4\ArrayHelper\obj\Debug\ArrayHelper.csproj.AssemblyReference.cache
